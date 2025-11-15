@@ -76,12 +76,40 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="20"/> Foco Atual
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25"/> Atividade & Frequência
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="16"/> Desenvolvendo aplicações web com CodeIgniter
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="16"/> Aprimorando conhecimentos em Node.js
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="16"/> Explorando automações com Python
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" width="16"/> Otimizando queries e estruturas de banco de dados
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullSablex&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NullSablex&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" width="25"/> Foco Atual
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="16"/> Desenvolvimento**
+- Aplicações web robustas com CodeIgniter
+- APIs RESTful com Node.js
+- Sistemas de gerenciamento de dados
+
+</td>
+<td width="50%" valign="top">
+
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="16"/> Aprendizado**
+- Aprimorando arquitetura de software
+- Explorando automações com Python
+- Otimização de queries SQL
+
+</td>
+</tr>
+</table>
 
 ---
 
