@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" font-family="'Fira Code', 'Courier New', monospace" font-size="14">
+  <defs>
+    <style>
+      .logo  { fill: #00ff41; }
+      .key   { fill: #39ff5e; font-weight: 700; }
+      .val   { fill: #c9d1d9; }
+      .title { fill: #00ff41; font-weight: 700; }
+      .sep   { fill: #1f6f3f; }
+      .accent{ fill: #e3b341; }
+      .line  { opacity: 0; animation: fade .35s ease-out forwards; }
+      @keyframes fade { to { opacity: 1; } }
+      .r1  { animation-delay: .05s } .r2  { animation-delay: .15s }
+      .r3  { animation-delay: .25s } .r4  { animation-delay: .35s }
+      .r5  { animation-delay: .45s } .r6  { animation-delay: .55s }
+      .r7  { animation-delay: .65s } .r8  { animation-delay: .75s }
+      .r9  { animation-delay: .85s }
+      .cursor { animation: blink 1s steps(1) infinite; fill: #00ff41; }
+      @keyframes blink { 50% { opacity: 0; } }
+      text { white-space: pre; }
+    </style>
+  </defs>
+
+  <g class="logo">
+    <text class="line r1" x="20" y="40"  xml:space="preserve">      ╱╲      </text>
+    <text class="line r2" x="20" y="60"  xml:space="preserve">     ╱  ╲     </text>
+    <text class="line r3" x="20" y="80"  xml:space="preserve">    ╱ ╱╲ ╲    </text>
+    <text class="line r4" x="20" y="100" xml:space="preserve">   ╱ ╱  ╲ ╲   </text>
+    <text class="line r5" x="20" y="120" xml:space="preserve">  ╱ ╱────╲ ╲  </text>
+    <text class="line r6" x="20" y="140" xml:space="preserve"> ╱ ╱      ╲ ╲ </text>
+    <text class="line r7" x="20" y="160" xml:space="preserve">╱_╱        ╲_╲</text>
+  </g>
+
+  <g>
+    <text class="line r1 title" x="200" y="40" xml:space="preserve">nullsablex<tspan class="sep">@</tspan>github</text>
+    <text class="line r1 sep"   x="200" y="56" xml:space="preserve">─────────────────────────────────</text>
+
+    <text class="line r2 key" x="200" y="80"  xml:space="preserve">Role      <tspan class="sep">:</tspan> </text>
+    <text class="line r2 val" x="300" y="80"  xml:space="preserve">Backend Developer</text>
+
+    <text class="line r3 key" x="200" y="100" xml:space="preserve">Backend   <tspan class="sep">:</tspan> </text>
+    <text class="line r3 val" x="300" y="100" xml:space="preserve">CodeIgniter · Node.js</text>
+
+    <text class="line r4 key" x="200" y="120" xml:space="preserve">Languages <tspan class="sep">:</tspan> </text>
+    <text class="line r4 val" x="300" y="120" xml:space="preserve">PHP · JavaScript · Rust · Pawn</text>
+
+    <text class="line r5 key" x="200" y="140" xml:space="preserve">Databases <tspan class="sep">:</tspan> </text>
+    <text class="line r5 val" x="300" y="140" xml:space="preserve">MySQL · SQLite</text>
+
+    <text class="line r6 key" x="200" y="160" xml:space="preserve">Focus     <tspan class="sep">:</tspan> </text>
+    <text class="line r6 val" x="300" y="160" xml:space="preserve">Backend · APIs · Plugins</text>
+
+    <text class="line r7 key" x="200" y="180" xml:space="preserve">Coffee    <tspan class="sep">:</tspan> </text>
+    <text class="line r7 accent" x="300" y="180" xml:space="preserve">████████████████ ∞ ml</text>
+
+    <text class="line r8 key" x="200" y="200" xml:space="preserve">Status    <tspan class="sep">:</tspan> </text>
+    <text class="line r8 val" x="300" y="200" xml:space="preserve">Available for projects </text>
+    <text class="line r8"     x="510" y="200" xml:space="preserve"><tspan class="accent">●</tspan></text>
+
+    <text class="line r9"     x="200" y="230" xml:space="preserve"><tspan class="title">$</tspan> <tspan class="val">_</tspan><tspan class="cursor">█</tspan></text>
+  </g>
+</svg>
