@@ -1,112 +1,112 @@
 <div align="center">
 
-```
-███╗   ██╗██╗   ██╗██╗     ██╗     ███████╗ █████╗ ██████╗ ██╗     ███████╗██╗  ██╗
-████╗  ██║██║   ██║██║     ██║     ██╔════╝██╔══██╗██╔══██╗██║     ██╔════╝╚██╗██╔╝
-██╔██╗ ██║██║   ██║██║     ██║     ███████╗███████║██████╔╝██║     █████╗   ╚███╔╝ 
-██║╚██╗██║██║   ██║██║     ██║     ╚════██║██╔══██║██╔══██╗██║     ██╔══╝   ██╔██╗ 
-██║ ╚████║╚██████╔╝███████╗███████╗███████║██║  ██║██████╔╝███████╗███████╗██╔╝ ██╗
-╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
-```
+<img src="header.svg" alt="NullSablex" width="760"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;CodeIgniter+%7C+Node.js+%7C+Python;Transformando+café+em+código)
+### 🇧🇷 Desenvolvedor Backend &nbsp;·&nbsp; 🇺🇸 Backend Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Backend+Developer+%E2%80%A2+CodeIgniter+%E2%80%A2+Node.js;Desenvolvedor+Backend+%E2%80%A2+APIs+%E2%80%A2+Banco+de+dados;Turning+coffee+into+code+%E2%98%95+%E2%86%92+%7B+%7D)](https://git.io/typing-svg)
+
+<a href="mailto:contato@nullsablex.com"><img src="https://img.shields.io/badge/●_Available_for_projects-2ea043?style=for-the-badge&labelColor=0d1117" alt="Open to work"/></a>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> Stack Principal
+<div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img src="neofetch.svg" alt="neofetch" width="760"/>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="18"/> Backend & Frameworks
+</div>
 
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter_3/4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+---
+
+## 🛠️ &nbsp;Stack
+
+<div align="center">
+
+**Backend & Frameworks**
+
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter_3%2F4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-</td>
-<td width="50%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="18"/> Linguagens
+**Languages / Linguagens**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Pawn](https://img.shields.io/badge/Pawn-8B0000?style=for-the-badge&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18"/> Databases
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</td>
-<td width="50%">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18"/> Tools
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20"/> Estatísticas
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NullSablex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NullSablex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NullSablex&theme=radical&row=2&column=3&margin-w=15&margin-h=15&no-bg=true)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25"/> Atividade & Frequência
+## 📈 &nbsp;Most Used &nbsp;·&nbsp; Mais Utilizado
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NullSablex&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NullSablex&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NullSablex&theme=github_dark" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NullSablex&theme=github_dark" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NullSablex&theme=github_dark&utcOffset=-3" alt="Productive Time" />
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" width="25"/> Foco Atual
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NullSablex/NullSablex/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NullSablex/NullSablex/output/snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/NullSablex/NullSablex/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 &nbsp;Focus &nbsp;·&nbsp; Foco Atual
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="16"/> Desenvolvimento**
-- Aplicações web robustas com CodeIgniter
-- APIs RESTful com Node.js
-- Sistemas de gerenciamento de dados
+### 🇺🇸 Building
+- Robust web apps with **CodeIgniter**
+- RESTful APIs with **Node.js / Express**
+- Data management & automation systems
+- Plugin development (**Rust** for SA-MP / Open Multiplayer)
+
+### 🇺🇸 Learning
+- Software architecture & clean code
+- SQL query optimization
+- Performance & low-level systems
 
 </td>
 <td width="50%" valign="top">
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="16"/> Aprendizado**
-- Aprimorando arquitetura de software
-- Explorando automações com Python
+### 🇧🇷 Desenvolvendo
+- Aplicações web robustas com **CodeIgniter**
+- APIs RESTful com **Node.js / Express**
+- Sistemas de gerenciamento e automação
+- Plugins em **Rust** para SA-MP / Open Multiplayer
+
+### 🇧🇷 Aprendendo
+- Arquitetura de software & clean code
 - Otimização de queries SQL
+- Performance & sistemas de baixo nível
 
 </td>
 </tr>
@@ -114,11 +114,11 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" width="20"/> Contato
+## 📫 &nbsp;Contact &nbsp;·&nbsp; Contato
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@nullsablex.com)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1438635367463915611)
 
 </div>
@@ -126,7 +126,12 @@
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=NullSablex&color=58a6ff&style=for-the-badge)
+
+[![Stars](https://img.shields.io/github/stars/NullSablex?style=for-the-badge&logo=github&label=Stars&labelColor=0d1117&color=e3b341)](https://github.com/NullSablex)
+![Profile Views](https://komarev.com/ghpvc/?username=NullSablex&color=e3b341&style=for-the-badge&label=VIEWS)
+
+<img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight&quoteCategory=programming&author=true&border=true" alt="Dev quote" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b32d,50:00ff41,100:39ff5e&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=0d1117&animation=twinkling&fontAlignY=70" alt="footer" width="100%"/>
