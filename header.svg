@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" font-family="'Fira Code', 'Courier New', monospace" font-size="14" font-weight="700">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00b32d">
+        <animate attributeName="stop-color" values="#00b32d;#00ff41;#00b32d" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00ff41">
+        <animate attributeName="stop-color" values="#00ff41;#39ff5e;#00ff41" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00b32d">
+        <animate attributeName="stop-color" values="#00b32d;#00ff41;#00b32d" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <style>
+      .line { opacity: 0; animation: appear 0.5s ease-out forwards; }
+      .l1 { animation-delay: 0.00s }
+      .l2 { animation-delay: 0.18s }
+      .l3 { animation-delay: 0.36s }
+      .l4 { animation-delay: 0.54s }
+      .l5 { animation-delay: 0.72s }
+      .l6 { animation-delay: 0.90s }
+      @keyframes appear { to { opacity: 0.85; } }
+      .pulse { animation: pulse 4s ease-in-out infinite; }
+      @keyframes pulse {
+        0%, 100% { filter: drop-shadow(0 0 2px #00ff41); }
+        50%      { filter: drop-shadow(0 0 5px #00ff41); }
+      }
+      text { fill: url(#grad); white-space: pre; }
+    </style>
+  </defs>
+  <g class="pulse">
+    <text class="line l1" x="20" y="25" xml:space="preserve">███╗   ██╗██╗   ██╗██╗     ██╗     ███████╗ █████╗ ██████╗ ██╗     ███████╗██╗  ██╗</text>
+    <text class="line l2" x="20" y="43" xml:space="preserve">████╗  ██║██║   ██║██║     ██║     ██╔════╝██╔══██╗██╔══██╗██║     ██╔════╝╚██╗██╔╝</text>
+    <text class="line l3" x="20" y="61" xml:space="preserve">██╔██╗ ██║██║   ██║██║     ██║     ███████╗███████║██████╔╝██║     █████╗   ╚███╔╝ </text>
+    <text class="line l4" x="20" y="79" xml:space="preserve">██║╚██╗██║██║   ██║██║     ██║     ╚════██║██╔══██║██╔══██╗██║     ██╔══╝   ██╔██╗ </text>
+    <text class="line l5" x="20" y="97" xml:space="preserve">██║ ╚████║╚██████╔╝███████╗███████╗███████║██║  ██║██████╔╝███████╗███████╗██╔╝ ██╗</text>
+    <text class="line l6" x="20" y="115" xml:space="preserve">╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝</text>
+  </g>
+</svg>
